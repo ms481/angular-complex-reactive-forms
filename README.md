@@ -4,7 +4,7 @@ This project is on how to use complex reactive forms in Angular. It contains:
 
 - a multi-step form using Angular Material Stepper component
 - input fields validations, including regEx pattern validations
-- dynamically creating components with FormArrays
+- dynamically creating form fields with FormArray
 - using Angular Material as UI component library
 
 YouTube Project Demo: https://youtu.be/GEyGvzlwRG4
