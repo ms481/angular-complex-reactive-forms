@@ -7,7 +7,9 @@ This project is on how to use complex reactive forms in Angular. It contains:
 - dynamically creating components with FormArrays
 - using Angular Material as UI component library
 
-Project YouTube Demo:
+YouTube Project Demo: https://youtu.be/GEyGvzlwRG4
+
+![angular-complex-form-pic-1](https://github.com/ms481/angular-complex-reactive-forms/assets/118136815/c8c15ba9-8e6b-4380-b29e-a611bd1924a7)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
